@@ -1,0 +1,17 @@
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\testperimeter.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\testperimeter.pdb
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\assignment.exe
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\assignment.pdb
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\assignment.exe.config
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kunal\source\repos\assignment\testperimeter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kunal\source\repos\assignment\testperimeter\obj\Debug\testperimeter.csproj.AssemblyReference.cache
+C:\Users\kunal\source\repos\assignment\testperimeter\obj\Debug\testperimeter.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\assignment\testperimeter\obj\Debug\testperimeter.csproj.CopyComplete
+C:\Users\kunal\source\repos\assignment\testperimeter\obj\Debug\testperimeter.dll
+C:\Users\kunal\source\repos\assignment\testperimeter\obj\Debug\testperimeter.pdb

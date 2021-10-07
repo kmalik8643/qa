@@ -1,0 +1,7 @@
+C:\Users\kunal\source\repos\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\kunal\source\repos\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\kunal\source\repos\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\kunal\source\repos\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\kunal\source\repos\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\kunal\source\repos\assignment\assignment\obj\Debug\assignment.pdb
